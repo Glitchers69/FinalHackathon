@@ -1,0 +1,7 @@
+SNo,username,password,firstname,lastname,Balance,MonthlyIncome,MonthlyExpenses,SavingsRate
+1.0,johndoe,secret123,John,Doe,100010.0,44170,1010.0,97.7
+2.0,janedoe,secret123,Jane,Doe,350000.0,75000,0.0,0.0
+3.0,abhi,password,abhishek,r,494940000.0,505312000,6004422.0,98.8
+4.0,sarthak,password,sarthak,belkar,50000.0,0,0.0,0.0
+5.0,rohananand,4cef4fdee0a6913c22c8b483e45daa649ccedb2ff4197ff997e8fa7c200030e3,rohan,anand,21900.0,10000,100.0,99.0
+6.0,abhishek,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,Abhi,abhi,159850.0,50000,10150.0,79.7
